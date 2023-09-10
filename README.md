@@ -1,3 +1,3 @@
-Project Description
+**Project Description**
 
 This project utilizes TensorFlow to create an image classification model designed to differentiate between AI-generated synthetic images and real images using the CIFAKE dataset. To enhance data handling efficiency, data generators are employed, while transfer learning is harnessed to assess the performance of two prominent pre-trained models: VGG16 and ResNet50. After extensive experimentation, the model with the highest classification accuracy is selected. Additionally, the project employs the gradient-based heat map method to offer insights into the model's decision-making process, highlighting influential image regions and improving interpretability.
